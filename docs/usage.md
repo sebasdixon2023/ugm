@@ -31,3 +31,4 @@ Notes and usage details for ugm.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
